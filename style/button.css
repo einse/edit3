@@ -1,0 +1,27 @@
+.zone {
+	background-color: white;
+	margin: 1%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	padding: 0.1cm;
+}
+
+.mount {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+/*	border: 0.02cm solid #888; */
+	border-radius: 0.2cm;
+	padding: 0.12cm;
+	background-color: #aaa;
+	-webkit-filter: sepia(0.5);
+}
+
+.button {
+	background-color: #888;
+	margin: 0.05cm;
+	border: 0.02cm solid #888;
+	border-radius: 0.5cm;
+}

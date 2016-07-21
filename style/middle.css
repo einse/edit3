@@ -1,0 +1,18 @@
+.p {
+	background-color: yellow;
+	width: 35%;
+}
+
+#middle {
+	display: flex;
+	flex-direction: column;
+	height: 100%;
+	flex-wrap: wrap;
+	align-content: flex-start;
+	overflow-x: hidden;
+}
+
+.p:focus {
+	background-color: #ff4136;
+	color: white;
+}

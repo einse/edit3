@@ -1,0 +1,21 @@
+body {
+	display: flex;
+	margin: 0;
+}
+
+body > * {
+	flex-grow: 1;
+}
+
+.left {
+	background-color: #0074d9;
+	background-color: white;
+}
+
+#middle {
+	flex-grow: 15;
+}
+
+.right {
+	background-color: #3d9970;
+}

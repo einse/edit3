@@ -1,0 +1,38 @@
+.left {
+	display: flex;
+	flex-direction: column;
+	max-width: 2.4cm;
+}
+
+.zone {
+	flex-grow: 1;
+}
+
+.zone.search {
+	justify-content: flex-start;
+	flex-grow: 0.25;	
+}
+
+.zone.search .mount {
+
+}
+
+.zone.search .button {
+
+}
+
+.zone.player {
+	justify-content: flex-start;
+}
+
+.zone.player .mount {
+
+}
+
+.zone.goto-beg {
+	
+}
+
+.zone.last-used {
+	
+}

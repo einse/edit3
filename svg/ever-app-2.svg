@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="10mm"
+   height="10mm"
+   viewBox="0 0 35.433071 35.433071"
+   id="svg4251"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="ever-app-2.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6"
+     inkscape:cx="37.540759"
+     inkscape:cy="15.83369"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     inkscape:window-width="1024"
+     inkscape:window-height="549"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
+     inkscape:window-maximized="1" />
+  <defs
+     id="defs4253">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4251"
+       is_visible="true" />
+  </defs>
+  <metadata
+     id="metadata4256">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1016.9291)"
+     style="display:none">
+    <image
+       sodipodi:absref="/home/nce/Загрузки/ever-app.png"
+       y="1017.4176"
+       x="0.3637763"
+       id="image4195"
+       xlink:href="file:///home/nce/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/ever-app.png"
+       preserveAspectRatio="none"
+       height="34.500153"
+       width="34.556175" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2">
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.62962806px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:path-effect="#path-effect4251"
+       inkscape:original-d="m 17.328041,12.202307 c -0.03616,1.742958 -0.14153,3.484452 -0.300473,5.217826 0.004,1.06192 0.585727,2.005504 1.228205,2.809016 0.472366,0.537687 1.033156,0.967514 1.644424,1.335767 0.954435,-0.283606 1.550279,-1.130167 2.314351,-1.716397 0.462398,-0.548863 0.638078,-1.310763 0.99275,-1.941681 0.765763,-1.535178 1.339615,-3.168343 1.659815,-4.8549 0.137006,-0.766456 0.246104,-1.55872 0.255936,-2.333108 C 24.939041,9.6659003 24.777497,8.5873745 24.430782,7.5796883 23.796249,6.2282022 23.023342,4.9263201 21.957903,3.8685579 21.474647,3.3549152 21.076729,2.7292048 20.370163,2.5088167 19.812178,2.1526316 19.127802,2.0902483 18.491181,2.0356772 17.534044,2.249103 16.610924,2.556742 15.743004,3.0172544 c -0.803283,0.5581061 -1.587909,1.156106 -2.16332,1.960775 -0.617707,0.6911657 -0.92996,1.5967044 -1.327553,2.4234673 -0.387762,1.0385536 -0.868562,2.0498467 -1.224453,3.0948293 -0.291261,1.524132 -0.484498,3.06018 -0.563127,4.610159 -0.164083,2.083532 -0.143237,4.175558 0.05616,6.256051 0.06245,0.774403 0.628791,2.510684 1.009761,3.211509 0.697676,1.843808 1.82102,1.979458 2.727053,3.725483 1.052106,1.563926 1.602797,1.243121 2.95126,2.571875 1.029448,0.153331 -3.3803,0.764164 2.363854,0.79114 4.95685,0.106545 -2.461573,2.434572 2.35763,-0.584073 4.836018,-3.551774 0.893664,-0.661926 1.616157,-1.720873 l 1.45595,-2.509263"
+       id="path4249"
+       d="m 17.328041,12.202307 -0.300473,5.217826 c 0.133897,1.026962 0.565203,2.013398 1.228205,2.809016 0.454934,0.545932 1.016845,1.002373 1.644424,1.335767 l 2.314351,-1.716397 c 0.352349,-0.635967 0.683511,-1.283673 0.99275,-1.941681 0.729367,-1.551968 1.339127,-3.170341 1.659815,-4.8549 0.146463,-0.769362 0.232129,-1.550291 0.255936,-2.333108 L 24.430782,7.5796883 C 23.847964,6.2026969 23.00433,4.9366275 21.957903,3.8685579 21.469635,3.3701917 20.93769,2.9146334 20.370163,2.5088167 l -1.878982,-0.4731395 -2.748177,0.9815772 -2.16332,1.960775 -1.327553,2.4234673 -1.224453,3.0948293 c -0.229844,1.531181 -0.417648,3.068673 -0.563127,4.610159 -0.196572,2.082861 -0.314598,4.197049 0.05616,6.256051 0.199399,1.107359 0.539579,2.18929 1.009761,3.211509 l 2.727053,3.725483 2.95126,2.571875 c 0.690646,0.482336 1.522007,0.760578 2.363854,0.79114 0.819704,0.02976 1.646616,-0.175099 2.35763,-0.584073 l 1.616157,-1.720873 1.45595,-2.509263"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccccccc" />
+  </g>
+</svg>
